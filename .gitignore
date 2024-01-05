@@ -1,0 +1,4 @@
+configs/*
+log.txt*
+*.ipynb
+*.bat
